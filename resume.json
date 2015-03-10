@@ -17,38 +17,57 @@
       },
       {
         "network": "Github",
-        "username": "ainsleychong",
         "url": "https://github.com/ainsleychong"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Factual Inc",
+      "position": "Senior Software Engineer",
+      "website": "http://www.factual.com",
+      "startDate": "2013-03-01",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Test test test test test test test test test test test test test test",
+        "Test test test test test test test test test test test test test test",
+        "Test test test test test test test test test test test test test test"
       ]
+    },
+    {
+      "company": "Samsung Digital Media Solutions Lab",
+      "position": "Software Engineer",
+      "website": "http://www.sra.samsung.com/research-lab/digital-media-solutions-lab",
+      "startDate": "2011-10-01",
+      "startDate": "2013-03-01",
+      "highlights": [
+        "Test test test test test test test test test test test test test test",
+        "Test test test test test test test test test test test test test test",
+        "Test test test test test test test test test test test test test test"
+      ]
+    },
+    {
+      "company": "Raytheon Inc",
+      "position": "Systems Engineer",
+      "startDate": "2009-07-01",
+      "startDate": "2011-07-01"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "institution": "University of Southern California",
+      "area": "System/Software Engineering",
+      "studyType": "MS",
+      "startDate": "2008-09-01",
+      "endDate": "2010-06-01",
+      "gpa": "3.9"
+    },
+    {
+      "institution": "University of Los Angeles, LA",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "2001-09-01",
+      "endDate": "2005-06-01",
+      "gpa": "3.5"
     }
   ],
   "skills": [
@@ -62,12 +81,12 @@
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Something",
+      "level": "Something",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Blah",
+        "Blah",
+        "Blah"
       ]
     }
   ]
