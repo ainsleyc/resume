@@ -38,7 +38,7 @@
       "position": "Software Engineer",
       "website": "http://www.sra.samsung.com/research-lab/digital-media-solutions-lab",
       "startDate": "2011-10-01",
-      "startDate": "2013-03-01",
+      "endDate": "2013-03-01",
       "highlights": [
         "Test test test test test test test test test test test test test test",
         "Test test test test test test test test test test test test test test",
@@ -49,22 +49,20 @@
       "company": "Raytheon Inc",
       "position": "Systems Engineer",
       "startDate": "2009-07-01",
-      "startDate": "2011-07-01"
+      "endDate": "2011-07-01"
     }
   ],
   "education": [
     {
       "institution": "University of Southern California",
-      "area": "System/Software Engineering",
-      "studyType": "MS",
+      "area": "MS System/Software Engineering",
       "startDate": "2008-09-01",
       "endDate": "2010-06-01",
       "gpa": "3.9"
     },
     {
       "institution": "University of Los Angeles, LA",
-      "area": "Computer Engineering",
-      "studyType": "BS",
+      "area": "BS Computer Engineering",
       "startDate": "2001-09-01",
       "endDate": "2005-06-01",
       "gpa": "3.5"
