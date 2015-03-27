@@ -1,14 +1,12 @@
 {
   "basics": {
     "name": "Ainsley Chong",
+    "label": "Software Engineer",
     "email": "ainsley.chong@gmail.com",
     "phone": "(310) 985-1144",
     "location": {
-      "address": "608 El Mercado Ave",
-      "postalCode": "CA 91754",
-      "city": "Monterey Park",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Los Angeles",
+      "region": "CA"
     },
     "profiles": [
       {
@@ -26,76 +24,92 @@
       "company": "Factual Inc",
       "position": "Senior Software Engineer",
       "website": "http://www.factual.com",
-      "startDate": "2013-03-01",
+      "startDate": "2013",
       "highlights": [
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test"
       ]
     },
     {
       "company": "Samsung Digital Media Solutions Lab",
       "position": "Software Engineer",
       "website": "http://www.sra.samsung.com/research-lab/digital-media-solutions-lab",
-      "startDate": "2011-10-01",
-      "endDate": "2013-03-01",
+      "startDate": "2011",
+      "endDate": "2013",
       "highlights": [
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test",
-        "Test test test test test test test test test test test test test test"
       ]
     },
     {
       "company": "Raytheon Inc",
       "position": "Systems Engineer",
-      "startDate": "2009-07-01",
-      "endDate": "2011-07-01"
+      "startDate": "2009",
+      "endDate": "2011"
     }
   ],
   "education": [
     {
       "institution": "University of Southern California",
       "area": "MS System/Software Engineering",
-      "startDate": "2008-09-01",
-      "endDate": "2010-06-01",
+      "startDate": "2008",
+      "endDate": "2010",
       "gpa": "3.9"
     },
     {
       "institution": "University of Los Angeles, LA",
       "area": "BS Computer Engineering",
-      "startDate": "2001-09-01",
-      "endDate": "2005-06-01",
+      "startDate": "2001",
+      "endDate": "2005",
       "gpa": "3.5"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Languages",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Javascript (expert)",
+        "Coffeescript (expert)",
+        "Ruby (competent)",
+        "Java (novice)"
       ]
     },
     {
-      "name": "Something",
-      "level": "Something",
+      "name": "Client",
       "keywords": [
-        "Blah",
-        "Blah",
-        "Blah"
+        "AngularJS (expert)",
+        "Backbone.js (expert)",
+        "SASS (novice)",
+        "D3.js (novice)"
+      ]
+    },
+    {
+      "name": "Server",
+      "keywords": [
+        "Node.js (expert)",
+        "Rails (competent)",
+        "Meteor (competent)"
+      ]
+    },
+    {
+      "name": "Persistence",
+      "keywords": [
+        "PostgreSQL (competent)",
+        "MongoDB (competent)",
+        "Redis (competent)"
+      ]
+    },
+    {
+      "name": "Ops",
+      "keywords": [
+        "Docker (competent)",
+        "AWS (competent)",
+        "Graphite (competent)",
+        "Chef (novice)"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "vim (competent)",
+        "grunt (competent)",
+        "jasmine (competent)"
       ]
     }
   ]
