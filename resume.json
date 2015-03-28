@@ -63,53 +63,53 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "Javascript (expert)",
-        "Coffeescript (expert)",
-        "Ruby (competent)",
-        "Java (novice)"
+      "details": [
+        { "name": "Javascript", "level": "expert" },
+        { "name": "Coffeescript", "level": "expert" },
+        { "name": "Ruby", "level": "competent" },
+        { "name": "Java", "level": "novice" }
       ]
     },
     {
       "name": "Client",
-      "keywords": [
-        "AngularJS (expert)",
-        "Backbone.js (expert)",
-        "SASS (novice)",
-        "D3.js (novice)"
+      "details": [
+        { "name": "AngularJS", "level": "expert" },
+        { "name": "Backbone.js", "level": "expert" },
+        { "name": "SASS", "level": "novice" },
+        { "name": "D3.js", "level": "novice" }
       ]
     },
     {
       "name": "Server",
-      "keywords": [
-        "Node.js (expert)",
-        "Rails (competent)",
-        "Meteor (competent)"
+      "details": [
+        { "name": "Node.js", "level": "expert" },
+        { "name": "Ruby on Rails", "level": "competent" },
+        { "name": "Meteor", "level": "competent" }
       ]
     },
     {
       "name": "Persistence",
-      "keywords": [
-        "PostgreSQL (competent)",
-        "MongoDB (competent)",
-        "Redis (competent)"
+      "details": [
+        { "name": "PostgreSQL", "level": "competent" },
+        { "name": "MongoDB", "level": "competent" },
+        { "name": "Redis", "level": "competent" }
       ]
     },
     {
       "name": "Ops",
-      "keywords": [
-        "Docker (competent)",
-        "AWS (competent)",
-        "Graphite (competent)",
-        "Chef (novice)"
+      "details": [
+        { "name": "Docker", "level": "competent" },
+        { "name": "AWS", "level": "competent" },
+        { "name": "Graphite", "level": "competent" },
+        { "name": "Chef", "level": "novice" }
       ]
     },
     {
       "name": "Tools",
-      "keywords": [
-        "vim (competent)",
-        "grunt (competent)",
-        "jasmine (competent)"
+      "details": [
+        { "name": "vim", "level": "competent" },
+        { "name": "grunt", "level": "competent" },
+        { "name": "jasmine", "level": "competent" }
       ]
     }
   ]
