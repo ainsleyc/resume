@@ -29,8 +29,9 @@
       "details": [
         { "text": "Lead developer for location based ad targeting single-page applications. Designed both client and server side architectures", "comment": "AngularJS, Backbone.js, Node.js" },
         { "text": "Designed and implemented Mechanical Turk based crawl training system. Internal hackathon team lead, 1st place", "comment": "Meteor" },
-        { "text": "Author of Factual client/server Javascript api driver", "comment": "Node.js" },
-        { "text": "Maintained and added new features to data api, peak 2000 queries per second", "comment": "Node.js" },
+        { "text": "Author of Factual client/server Javascript data API driver", "comment": "Node.js" },
+        { "text": "Developed Chrome plugin for point-and-click crawl training", "comment": "Backbone.js" },
+        { "text": "Maintained and added new features to data API, peak 2000 queries per second", "comment": "Node.js" },
         { "text": "Maintained and added new features to website backend infrastructure", "comment": "Ruby on Rails" },
         { "text": "Set up and maintained company-wide service metrics server", "comment": "Graphite, Statsd, Grafana, Docker" }
       ]
@@ -42,7 +43,7 @@
       "startDate": "2011",
       "endDate": "2013",
       "details": [
-        { "text": "Designed and prototyped Javascript-based voice navigation system for SmartTV applications", "comment": "Backbone.js" }
+        { "text": "Designed and prototyped Javascript-based voice navigation system for SmartTV applications", "comment": "Node.js, Backbone.js" }
       ]
     },
     {
@@ -51,7 +52,7 @@
       "startDate": "2010",
       "website": "https://play.google.com/store/apps/details?id=com.pokerpa2.android",
       "details": [
-        { "text": "App for remotely queueing at casino poker tables", "comment": "Android"  }
+        { "text": "App for remotely queueing at casino poker tables, now defunct", "comment": "Android"  }
       ]
     },
     {
@@ -66,7 +67,7 @@
   "education": [
     {
       "institution": "University of Southern California",
-      "area": "MS System/Software Engineering",
+      "area": "MS Systems/Software Engineering",
       "startDate": "2008",
       "endDate": "2010",
       "gpa": "3.9"
@@ -127,11 +128,35 @@
       ]
     },
     {
-      "name": "Tools",
+      "name": "Editor",
       "details": [
-        { "text": "vim", "comment": "competent" },
-        { "text": "grunt", "comment": "competent" },
-        { "text": "jasmine", "comment": "competent" }
+        { "text": "vim" },
+        { "text": "fugitive" },
+        { "text": "gitgutter" },
+        { "text": "airline" },
+        { "text": "syntastic" },
+        { "text": "ctrl-p (with Ag)" },
+        { "text": "solarized" },
+        { "text": "commentary" }
+      ]
+    },
+    {
+      "name": "Tooling",
+      "details": [
+        { "text": "grunt" },
+        { "text": "gulp" },
+        { "text": "jasmine" },
+        { "text": "karma" },
+        { "text": "phantomjs" },
+        { "text": "livereload" },
+        { "text": "browserify" },
+        { "text": "bower" },
+        { "text": "lodash/underscore" },
+        { "text": "async" },
+        { "text": "cheerio" },
+        { "text": "sinon" },
+        { "text": "nock" },
+        { "text": "commander" }
       ]
     }
   ]
