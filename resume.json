@@ -25,13 +25,14 @@
       "position": "Senior Software Engineer",
       "website": "http://www.factual.com",
       "startDate": "2013",
+      "endDate": "Present",
       "details": [
-        { "text": "Designed and implemented single page applications for location based ad targeting", "comment": "AngularJS, Backbone.js" },
+        { "text": "Lead developer for location based ad targeting single-page applications. Designed both client and server side architectures", "comment": "AngularJS, Backbone.js, Node.js" },
+        { "text": "Designed and implemented Mechanical Turk based crawl training system. Internal hackathon team lead, 1st place", "comment": "Meteor" },
         { "text": "Author of Factual client/server Javascript api driver", "comment": "Node.js" },
-        { "text": "Maintained and added new features to data api, peak 2000 qps", "comment": "Node.js" },
-        { "text": "Maintainted and added new features to website backend infrastructure", "comment": "Ruby on Rails" },
-        { "text": "Designed and implemented Mechanical Turk based crawl training system, internal hackathon winner", "comment": "Meteor" },
-        { "text": "Set up and maintained web service metrics server", "comment": "Graphite, Statsd, Grafana, Docker" }
+        { "text": "Maintained and added new features to data api, peak 2000 queries per second", "comment": "Node.js" },
+        { "text": "Maintained and added new features to website backend infrastructure", "comment": "Ruby on Rails" },
+        { "text": "Set up and maintained company-wide service metrics server", "comment": "Graphite, Statsd, Grafana, Docker" }
       ]
     },
     {
@@ -45,18 +46,20 @@
       ]
     },
     {
-      "company": "Raytheon Inc",
-      "position": "Systems Engineer",
-      "startDate": "2009",
-      "endDate": "2011",
+      "company": "PokerPA",
+      "position": "Software Engineer",
+      "startDate": "2010",
+      "website": "https://play.google.com/store/apps/details?id=com.pokerpa2.android",
       "details": [
-        { "text": "Blah"  }
+        { "text": "App for remotely queueing at casino poker tables", "comment": "Android"  }
       ]
     },
     {
-      "company": "Personal Projects",
+      "company": "[Personal] Pathfinder Spellbook",
+      "startDate": "2010",
+      "website": "https://play.google.com/store/apps/details?id=com.ChicaneryGames.PathfindersSpellbook",
       "details": [
-        { "text": "Blah"  }
+        { "text": "Reference app for Pathfinder tabletop game, 60k downloads", "comment": "Android"  }
       ]
     }
   ],
