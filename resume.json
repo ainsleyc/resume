@@ -25,7 +25,13 @@
       "position": "Senior Software Engineer",
       "website": "http://www.factual.com",
       "startDate": "2013",
-      "highlights": [
+      "details": [
+        { "text": "Designed and implemented single page applications for location based ad targeting", "comment": "AngularJS, Backbone.js" },
+        { "text": "Author of Factual client/server Javascript api driver", "comment": "Node.js" },
+        { "text": "Maintained and added new features to data api, peak 2000 qps", "comment": "Node.js" },
+        { "text": "Maintainted and added new features to website backend infrastructure", "comment": "Ruby on Rails" },
+        { "text": "Designed and implemented Mechanical Turk based crawl training system, internal hackathon winner", "comment": "Meteor" },
+        { "text": "Set up and maintained web service metrics server", "comment": "Graphite, Statsd, Grafana, Docker" }
       ]
     },
     {
@@ -34,14 +40,24 @@
       "website": "http://www.sra.samsung.com/research-lab/digital-media-solutions-lab",
       "startDate": "2011",
       "endDate": "2013",
-      "highlights": [
+      "details": [
+        { "text": "Designed and prototyped Javascript-based voice navigation system for SmartTV applications", "comment": "Backbone.js" }
       ]
     },
     {
       "company": "Raytheon Inc",
       "position": "Systems Engineer",
       "startDate": "2009",
-      "endDate": "2011"
+      "endDate": "2011",
+      "details": [
+        { "text": "Blah"  }
+      ]
+    },
+    {
+      "company": "Personal Projects",
+      "details": [
+        { "text": "Blah"  }
+      ]
     }
   ],
   "education": [
@@ -64,52 +80,55 @@
     {
       "name": "Languages",
       "details": [
-        { "name": "Javascript", "level": "expert" },
-        { "name": "Coffeescript", "level": "expert" },
-        { "name": "Ruby", "level": "competent" },
-        { "name": "Java", "level": "novice" }
+        { "text": "Javascript", "comment": "expert" },
+        { "text": "Coffeescript", "comment": "expert" },
+        { "text": "Ruby", "comment": "competent" },
+        { "text": "Java", "comment": "novice" }
       ]
     },
     {
       "name": "Client",
       "details": [
-        { "name": "AngularJS", "level": "expert" },
-        { "name": "Backbone.js", "level": "expert" },
-        { "name": "SASS", "level": "novice" },
-        { "name": "D3.js", "level": "novice" }
+        { "text": "AngularJS", "comment": "expert" },
+        { "text": "Backbone.js", "comment": "expert" },
+        { "text": "SASS", "comment": "novice" },
+        { "text": "D3.js", "comment": "novice" },
+        { "text": "Android", "comment": "novice" }
       ]
     },
     {
       "name": "Server",
       "details": [
-        { "name": "Node.js", "level": "expert" },
-        { "name": "Ruby on Rails", "level": "competent" },
-        { "name": "Meteor", "level": "competent" }
+        { "text": "Node.js", "comment": "expert" },
+        { "text": "Ruby on Rails", "comment": "competent" },
+        { "text": "Meteor", "comment": "competent" }
       ]
     },
     {
       "name": "Persistence",
       "details": [
-        { "name": "PostgreSQL", "level": "competent" },
-        { "name": "MongoDB", "level": "competent" },
-        { "name": "Redis", "level": "competent" }
+        { "text": "PostgreSQL", "comment": "competent" },
+        { "text": "MongoDB", "comment": "competent" },
+        { "text": "Redis", "comment": "competent" },
+        { "text": "Elasticsearch", "comment": "novice" },
+        { "text": "Solr", "comment": "novice" }
       ]
     },
     {
       "name": "Ops",
       "details": [
-        { "name": "Docker", "level": "competent" },
-        { "name": "AWS", "level": "competent" },
-        { "name": "Graphite", "level": "competent" },
-        { "name": "Chef", "level": "novice" }
+        { "text": "Docker", "comment": "competent" },
+        { "text": "AWS", "comment": "competent" },
+        { "text": "Graphite", "comment": "competent" },
+        { "text": "Chef", "comment": "novice" }
       ]
     },
     {
       "name": "Tools",
       "details": [
-        { "name": "vim", "level": "competent" },
-        { "name": "grunt", "level": "competent" },
-        { "name": "jasmine", "level": "competent" }
+        { "text": "vim", "comment": "competent" },
+        { "text": "grunt", "comment": "competent" },
+        { "text": "jasmine", "comment": "competent" }
       ]
     }
   ]
