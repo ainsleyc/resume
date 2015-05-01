@@ -29,7 +29,7 @@
       "details": [
         { "text": "Lead developer for location based ad targeting single-page applications. Designed both client and server side architectures", "comment": "AngularJS, Backbone.js, Node.js" },
         { "text": "Designed and implemented Mechanical Turk based crawl training system. Internal hackathon team lead, 1st place", "comment": "Meteor" },
-        { "text": "Author of Factual client/server Javascript data API driver", "comment": "Node.js" },
+        { "text": "Designed and developed 3rd party embedded ad-targeting UI", "comment": "React, Node.js" },
         { "text": "Developed Chrome plugin for point-and-click crawl training", "comment": "Backbone.js" },
         { "text": "Maintained and added new features to data API, peak 2000 queries per second", "comment": "Node.js" },
         { "text": "Maintained and added new features to website backend infrastructure", "comment": "Ruby on Rails" },
@@ -95,6 +95,7 @@
       "details": [
         { "text": "AngularJS", "comment": "expert" },
         { "text": "Backbone.js", "comment": "expert" },
+        { "text": "React.js", "comment": "novice" },
         { "text": "SASS", "comment": "novice" },
         { "text": "D3.js", "comment": "novice" },
         { "text": "Android", "comment": "novice" }
